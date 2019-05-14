@@ -2,7 +2,7 @@
 name: Bug
 about: Report a bug in the JS API
 title: 'Bug - '
-labels: 'bug' 
+labels: bug, help wanted
 assignees: ''
 
 ---
