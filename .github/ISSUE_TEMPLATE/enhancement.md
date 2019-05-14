@@ -2,9 +2,7 @@
 name: Enhancement Request
 about: Request new functionality or an update to existing functionality.
 title: 'Feature - '
-labels: 
-    - '0-new'
-    - 'Enhancement'
+labels: 'Enhancement'
 assignees: ''
 
 ---
