@@ -1,8 +1,8 @@
 ---
 name: Enhancement Request
 about: Request new functionality or an update to existing functionality.
-title: 'Feature - '
-labels: ''
+title: 'Enhancement - '
+labels: Enhancement, 0 - new
 assignees: ''
 
 ---
