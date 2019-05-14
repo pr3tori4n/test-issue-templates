@@ -9,12 +9,15 @@ assignees: ''
 
 ## Description
 ...
+
 ## Reproduction Steps
 1. 
 
 ## Expected Results
 ...
+
 ## Actual Results
 ...
+
 ## Relevant Info <small>(e.g. Browser, OS, Version)</small>
 ...

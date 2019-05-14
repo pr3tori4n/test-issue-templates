@@ -9,11 +9,14 @@ assignees: ''
 
 ## Description
 ...
+
 ## Acceptance Criteria <small>(a.k.a. Requirements)</small>
 ### Minimum Viable Product (MVP)
 ...
+
 ### Nice-to-haves
 ...
+
 ### Out of Scope
 ...
 
