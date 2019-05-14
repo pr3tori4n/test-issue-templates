@@ -1,5 +1,5 @@
 ---
-name: _General
+name: General
 about: Blank Issue
 
 ---
