@@ -20,5 +20,5 @@ assignees: ''
 ### Out of Scope
 ...
 
-## Relevant Info <small>(e.g. Dependencies, Blockers Links)</small>
+## Relevant Info <small>(e.g. Dependencies, Blockers, Links)</small>
 ...
