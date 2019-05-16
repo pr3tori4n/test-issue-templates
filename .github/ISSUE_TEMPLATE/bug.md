@@ -14,5 +14,5 @@ assignees: ''
 1. 
 
 ## Relevant Info <small>(e.g. Browser, OS, Version, Regression)</small>
-**<!-- Please use labels to indicate if this is a 3.x or 4.x issue -->**
+<!-- Please use labels to indicate if this is a 3.x or 4.x issue -->
 ...
