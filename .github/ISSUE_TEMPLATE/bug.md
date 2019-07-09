@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## Description <small>(Actual Behavior vs. Expected Behavior)</small>
+## Description <!--(Actual Behavior vs. Expected Behavior)-->
 ...
 
 ## Reproduction Steps
